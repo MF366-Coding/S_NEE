@@ -1,5 +1,5 @@
 """
-`const.py` (Supaplex: New Era Engine)
+`init.py` (Supaplex: New Era Engine)
 ------------------------------------------------
 
 **This program is not affiliated with Supaplex.**
@@ -12,11 +12,5 @@ Date: March 8th, 2025
 
 License: GLPv3
 
-Description: Holds the majority of the constants that will be used.
+Description: Turns the main directory into a package.
 """
-
-# [*] Graphic-related
-SCALE_FACTOR = 1
-
-# [*] Gameloop
-TICRATE = 35
